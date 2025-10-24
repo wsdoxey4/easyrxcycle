@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.__PrivateStripeElement iframe {
+  height: auto !important;
+  min-height: 300px !important;
+  opacity: 1 !important;
+}
